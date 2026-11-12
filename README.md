@@ -1,4 +1,25 @@
-# cloak
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="cloak" width="560">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tagline-dark.svg">
+    <img src="assets/tagline-light.svg" alt="Talk to any model as someone else." width="520">
+  </picture>
+</div>
+
+---
+
+<p>
+  <a href="#quick-start"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-start-dark.svg"><img src="assets/button-start-light.svg" alt="Quick start" height="40" align="top"></picture></a>
+  <a href="#install"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-install-dark.svg"><img src="assets/button-install-light.svg" alt="Install" height="40" align="top"></picture></a>
+  <a href="#how-it-works"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-how-dark.svg"><img src="assets/button-how-light.svg" alt="How it works" height="40" align="top"></picture></a>
+  <a href="#how-it-works"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/callout-dark.svg"><img src="assets/callout-light.svg" alt="Your real details never leave your machine." height="40" align="top"></picture></a>
+</p>
+
+---
 
 **Let your agent talk to any model without telling it who you are.**
 
